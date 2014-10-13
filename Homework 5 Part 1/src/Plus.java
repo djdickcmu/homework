@@ -1,5 +1,5 @@
 /*Author: Dorsey Dick
- * Assignment: Homework 4 Part 1
+ * Assignment: Homework 5 Part 1
  * File: Plus.java
  * Description: This class represents a plus node in the arithmetic tree.
  * Its eval method returns the result of the left and right node's eval method added together.

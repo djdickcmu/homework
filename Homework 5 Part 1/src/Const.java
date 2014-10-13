@@ -15,7 +15,8 @@ public class Const extends Node {
 	public double eval(double[] variableValues) {
 		return value;
 	}
-	public String toString(){
+
+	public String toString() {
 		return Double.toString(value);
 	}
 }
