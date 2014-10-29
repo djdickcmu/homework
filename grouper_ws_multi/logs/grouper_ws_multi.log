@@ -1,0 +1,259 @@
+2014/10/21 11:56:51 INFO hi 
+2014/10/21 11:57:39 INFO hi 
+2014/10/21 11:59:17 INFO hi 
+2014/10/21 12:00:08 INFO hi 
+2014/10/21 12:01:58 INFO hi 
+2014/10/21 12:02:32 INFO hi 
+2014/10/21 12:03:04 INFO hi 
+2014/10/21 12:03:52 INFO hi 
+2014/10/21 12:04:03 INFO hi 
+2014/10/21 12:04:19 INFO hi 
+2014/10/21 12:04:42 INFO hi 
+2014/10/21 14:05:57 INFO hi 
+2014/10/21 14:11:43 INFO hi 
+2014/10/21 14:12:02 INFO hi 
+2014/10/21 14:12:12 INFO hi 
+2014/10/21 14:12:27 INFO hi 
+2014/10/21 14:12:40 INFO hi 
+2014/10/21 14:13:18 INFO hi 
+2014/10/21 14:13:40 INFO hi 
+2014/10/21 14:14:34 INFO hi 
+2014/10/21 14:14:44 INFO hi 
+2014/10/22 12:38:05 INFO hi 
+2014/10/22 12:39:03 INFO hi 
+2014/10/22 12:39:34 INFO hi 
+2014/10/22 12:40:26 INFO hi 
+2014/10/22 12:40:31 INFO hi 
+2014/10/22 12:41:00 INFO hi 
+2014/10/22 12:41:49 INFO hi 
+2014/10/22 12:42:45 INFO hi 
+2014/10/22 12:43:16 INFO hi 
+2014/10/22 12:43:16 INFO Connected to stomp server 
+2014/10/22 12:43:16 INFO Connected to stomp server 
+2014/10/22 12:43:16 ERROR Couldn't subscribe to queue   
+2014/10/22 12:43:16 ERROR Couldn't subscribe to queue   
+2014/10/22 12:43:43 INFO hi 
+2014/10/22 12:44:51 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:44:51 INFO hi 
+2014/10/22 12:44:51 DEBUG Starting again 
+2014/10/22 12:44:51 DEBUG Starting again 
+2014/10/22 12:44:51 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:44:51 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:44:51 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:44:51 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:44:51 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:44:51 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:44:52 INFO Connected to stomp server 
+2014/10/22 12:44:52 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:44:52 INFO Connected to stomp server 
+2014/10/22 12:44:52 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:44:52 ERROR Couldn't subscribe to queue   
+2014/10/22 12:44:52 ERROR Couldn't subscribe to queue   
+2014/10/22 12:46:42 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:46:42 INFO hi 
+2014/10/22 12:46:42 DEBUG Starting again 
+2014/10/22 12:46:42 DEBUG Starting again 
+2014/10/22 12:46:42 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:46:42 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:46:42 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:46:42 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:46:42 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:46:42 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:46:42 INFO Connected to stomp server 
+2014/10/22 12:46:42 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:46:42 INFO Connected to stomp server 
+2014/10/22 12:46:42 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:46:42 ERROR Couldn't subscribe to queue   
+2014/10/22 12:46:42 ERROR Couldn't subscribe to queue   
+2014/10/22 12:47:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:47:00 INFO hi 
+2014/10/22 12:47:00 DEBUG Starting again 
+2014/10/22 12:47:00 DEBUG Starting again 
+2014/10/22 12:47:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:47:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:47:00 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:47:00 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:47:00 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:47:00 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:47:00 INFO Connected to stomp server 
+2014/10/22 12:47:00 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:47:00 INFO Connected to stomp server 
+2014/10/22 12:47:00 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:47:00 ERROR Couldn't subscribe to queue   
+2014/10/22 12:47:00 ERROR Couldn't subscribe to queue   
+2014/10/22 12:52:33 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:52:33 INFO hi 
+2014/10/22 12:52:33 DEBUG Starting again 
+2014/10/22 12:52:33 DEBUG Starting again 
+2014/10/22 12:52:33 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:52:33 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:52:33 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:52:33 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:52:33 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:52:33 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:52:33 INFO Connected to stomp server 
+2014/10/22 12:52:33 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:52:33 INFO Connected to stomp server 
+2014/10/22 12:52:33 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:52:33 ERROR Couldn't subscribe to queue /queue/test.grouper.ws  
+2014/10/22 12:52:33 ERROR Couldn't subscribe to queue /queue/test.grouper.ws  
+2014/10/22 12:54:08 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:08 INFO hi 
+2014/10/22 12:54:08 DEBUG Starting again 
+2014/10/22 12:54:08 DEBUG Starting again 
+2014/10/22 12:54:08 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:08 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:08 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:54:08 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:54:08 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:54:08 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:54:08 INFO Connected to stomp server 
+2014/10/22 12:54:08 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:54:08 INFO Connected to stomp server 
+2014/10/22 12:54:08 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:54:08 ERROR Couldn't subscribe to queue   
+2014/10/22 12:54:08 ERROR Couldn't subscribe to queue   
+2014/10/22 12:54:54 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:54 INFO hi 
+2014/10/22 12:54:54 DEBUG  
+2014/10/22 12:54:54 DEBUG  
+2014/10/22 12:54:54 DEBUG Starting again 
+2014/10/22 12:54:54 DEBUG Starting again 
+2014/10/22 12:54:54 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:54 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:54:54 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:54:54 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:54:54 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:54:54 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:54:54 INFO Connected to stomp server 
+2014/10/22 12:54:54 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:54:54 INFO Connected to stomp server 
+2014/10/22 12:54:54 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:54:54 ERROR Couldn't subscribe to queue   
+2014/10/22 12:54:54 ERROR Couldn't subscribe to queue   
+2014/10/22 12:55:18 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:18 INFO hi 
+2014/10/22 12:55:18 DEBUG QUEUE:  
+2014/10/22 12:55:18 DEBUG QUEUE:  
+2014/10/22 12:55:18 DEBUG Starting again 
+2014/10/22 12:55:18 DEBUG Starting again 
+2014/10/22 12:55:18 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:18 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:18 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:55:18 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:55:18 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:55:18 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:55:18 INFO Connected to stomp server 
+2014/10/22 12:55:18 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:55:18 INFO Connected to stomp server 
+2014/10/22 12:55:18 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:55:18 ERROR Couldn't subscribe to queue   
+2014/10/22 12:55:18 ERROR Couldn't subscribe to queue   
+2014/10/22 12:55:49 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:49 INFO hi 
+2014/10/22 12:55:49 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 12:55:49 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 12:55:49 DEBUG Starting again 
+2014/10/22 12:55:49 DEBUG Starting again 
+2014/10/22 12:55:49 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:49 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 12:55:49 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:55:49 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 12:55:49 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:55:49 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 12:55:49 INFO Connected to stomp server 
+2014/10/22 12:55:49 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:55:49 INFO Connected to stomp server 
+2014/10/22 12:55:49 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 12:55:49 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 12:55:49 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
+2014/10/22 14:01:16 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:17 INFO hi 
+2014/10/22 14:01:17 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 14:01:17 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 14:01:17 DEBUG Starting again 
+2014/10/22 14:01:17 DEBUG Starting again 
+2014/10/22 14:01:17 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:17 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:17 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:17 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:17 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:17 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:17 INFO Connected to stomp server 
+2014/10/22 14:01:17 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:17 INFO Connected to stomp server 
+2014/10/22 14:01:17 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:17 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 14:01:17 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
+2014/10/22 14:01:32 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:32 INFO hi 
+2014/10/22 14:01:32 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 14:01:32 DEBUG Starting again 
+2014/10/22 14:01:32 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 14:01:32 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:32 DEBUG Starting again 
+2014/10/22 14:01:32 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:32 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:32 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:32 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:32 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:32 INFO Connected to stomp server 
+2014/10/22 14:01:32 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:32 INFO Connected to stomp server 
+2014/10/22 14:01:32 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:32 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 14:01:32 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
+2014/10/22 14:01:50 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:50 INFO hi 
+2014/10/22 14:01:50 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 14:01:50 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 14:01:50 DEBUG Starting again 
+2014/10/22 14:01:50 DEBUG Starting again 
+2014/10/22 14:01:50 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:50 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:01:50 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:50 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:01:50 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:50 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:01:50 INFO Connected to stomp server 
+2014/10/22 14:01:50 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:50 INFO Connected to stomp server 
+2014/10/22 14:01:50 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:01:50 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 14:01:50 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
+2014/10/22 14:17:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:17:00 INFO hi 
+2014/10/22 14:17:00 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 14:17:00 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 14:17:00 DEBUG Starting again 
+2014/10/22 14:17:00 DEBUG Starting again 
+2014/10/22 14:17:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:17:00 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 14:17:00 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:17:00 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 14:17:00 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:17:00 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 14:17:00 INFO Connected to stomp server 
+2014/10/22 14:17:00 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:17:00 INFO Connected to stomp server 
+2014/10/22 14:17:00 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 14:17:00 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 14:17:00 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
+2014/10/22 15:23:24 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 15:23:24 INFO hi 
+2014/10/22 15:23:24 DEBUG QUEUE: queue/test.grouper.ws 
+2014/10/22 15:23:24 DEBUG QUEUE: queue/test.grouper.ws.network 
+2014/10/22 15:23:24 DEBUG Starting again 
+2014/10/22 15:23:24 DEBUG Starting again 
+2014/10/22 15:23:24 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 15:23:24 DEBUG Calling CMU::CFG::readConfig(configuration.pl) 
+2014/10/22 15:23:24 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 15:23:24 DEBUG Calling CMU::ActiveMQ::connect() 
+2014/10/22 15:23:24 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 15:23:24 DEBUG Connecting to stomp using login:compserv-grouper-test passcode:'xxxxxx' 
+2014/10/22 15:23:24 INFO Connected to stomp server 
+2014/10/22 15:23:25 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 15:23:25 INFO Connected to stomp server 
+2014/10/22 15:23:25 DEBUG Calling CMU::ActiveMQ::subscribe(self) 
+2014/10/22 15:23:25 ERROR Couldn't subscribe to queue queue/test.grouper.ws  
+2014/10/22 15:23:25 ERROR Couldn't subscribe to queue queue/test.grouper.ws.network  
